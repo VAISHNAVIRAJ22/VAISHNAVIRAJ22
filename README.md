@@ -6,7 +6,7 @@ I’m a Computer Science and Engineering student who enjoys learning and buildin
 
 ## 🔍 About Me
 - 💻 Interested in mobile and web application development.
-- 🔒 Focused on privacy-first app ideas.
+
 - 📚 Currently learning Java, SQL, and web technologies.
 - 🌱 Always open to learning and improving my skills.
 
