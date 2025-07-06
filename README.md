@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Vaishnavi%20Raj!&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Vaishnavi%20 M!&fontSize=40&fontColor=ffffff" />
 
 # 👋 About Me
 🎯 Aspiring Full Stack Developer | Open Source Contributor | AI Enthusiast | Computer Science Engineer  
