@@ -1,59 +1,51 @@
-# 👋 Hi, I'm Vaishnavi M
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Vaishnavi%20Raj!&fontSize=40&fontColor=ffffff" />
 
-🎯 A passionate Computer Science Engineering student focused on building efficient software solutions, solving real-world problems, and continuously learning new technologies.
-
----
-
-## 📚 Education
-**Bachelor’s Degree in Computer Science and Engineering**  
-M. Kumarasamy College of Engineering (2022 - 2026)  
-CGPA: 7.605 (Till 5th Semester)
+# 👋 About Me
+🎯 Aspiring Full Stack Developer | Open Source Contributor | AI Enthusiast | Computer Science Engineer  
+💡 Passionate about building efficient solutions and learning new technologies.
 
 ---
 
-## 💻 Technical Skills
-- **Languages:** Java, SQL
-- **Frontend:** HTML, CSS
-- **Soft Skills:** Teamwork, Adaptability, Leadership, Communication
-- **Languages Known:** Tamil, English
+## 🔧 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ## 🚀 Projects
-- **📸 CaptureShield:** Mobile app that restricts camera usage in sensitive areas to protect privacy.
-- **📖 Library Software Management:** Interactive website that notifies users about due dates and fines and manages library needs.
+- 📸 **CaptureShield:** Mobile app to restrict camera use in sensitive areas.
+- 📖 **Library Software Management:** Interactive website for book due alerts & fine management.
+- 🌐 **Quiz App:** A fun and interactive quiz platform.
 
 ---
 
-## 🏅 Certifications & Achievements
-- NPTEL (Elite) Certified in “Introduction To Industry 4.0 And Industrial Internet of Things”
-- Completed Skyscanner Front-End Software Engineering Job Simulation (Forage)
-- Coursera Certified in “Organizational Analysis”
+## 🏅 Achievements & Certifications
+- NPTEL Elite Certificate in “Introduction to Industry 4.0 & IIoT”
+- Completed Front-End Software Engineering Job Simulation (Skyscanner - Forage)
+- Coursera Certified in Organizational Analysis
+- LeetCode 150+ Problems | HackerRank Java 5⭐ | CodeChef 100+ Programs
 
 ---
 
-## 👨‍💻 Coding Profiles
-- **LeetCode:** 150+ Problems Solved (Java, SQL)
-- **HackerRank:** 5⭐ in Java
-- **CodeChef:** 100+ Programs (Java)
+## 🎤 Events & Workshops
+- 🛡️ Speaker at Sona Institute's "Generative AI" Workshop
+- 🏆 Hackathon Participant at Bannari Amman Institute of Technology
+- 📊 Organized sessions as Math Club Coordinator
 
 ---
 
-## 🎉 Co-Curricular & Extra-Curricular Activities
-- Participated in a Hackathon at Bannari Amman Institute of Technology
-- Attended a Generative AI workshop at Sona Institute of Technology, Salem
-- Organized sessions as an Event Coordinator in the Math Club
-- 🏐 Won 2nd place in Zonal Level & College Volleyball Tournaments
+## 📊 GitHub Stats
+![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAISHNAVIRAJ22&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAISHNAVIRAJ22&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=VAISHNAVIRAJ22&theme=tokyonight)
 
 ---
 
-## 🔗 Links
-- [GitHub](https://github.com/VAISHNAVIRAJ22)
-- [LinkedIn](https://www.linkedin.com/in/vaishnaviraji22/)
-- [Portfolio](https://monickaa.neocities.org/vaish)
-
----
-
-## ✨ Hobbies
-🏐 Playing Volleyball | 🎵 Listening to Songs | 🍳 Cooking
-
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vaishnaviraji22)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/VAISHNAVIRAJ22)
